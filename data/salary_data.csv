@@ -1,0 +1,1001 @@
+years_experience,education_level,age,job_role,salary,education_name,role_name
+11.2,2,31,4,123600.0,Bachelor's,Lead
+28.5,2,48,5,186600.0,Bachelor's,Manager
+22.0,3,43,5,182100.0,Master's,Manager
+18.0,3,41,5,169300.0,Master's,Manager
+4.7,3,29,1,79100.0,Master's,Junior
+4.7,3,24,1,84500.0,Master's,Junior
+1.7,3,28,1,68900.0,Master's,Junior
+26.0,3,47,5,186800.0,Master's,Manager
+18.0,2,40,4,146300.0,Bachelor's,Lead
+21.2,2,41,5,154800.0,Bachelor's,Manager
+0.6,2,22,1,58700.0,Bachelor's,Junior
+29.1,4,54,5,198300.0,PhD,Manager
+25.0,4,49,4,175900.0,PhD,Lead
+6.4,1,28,2,76900.0,High School,Mid-Level
+5.5,3,28,1,86600.0,Master's,Junior
+5.5,4,29,3,118000.0,PhD,Senior
+9.1,2,26,1,84800.0,Bachelor's,Junior
+15.7,2,36,3,122600.0,Bachelor's,Senior
+13.0,4,37,2,128600.0,PhD,Mid-Level
+8.7,1,27,1,85100.0,High School,Junior
+18.4,3,41,3,138500.0,Master's,Senior
+4.2,2,22,2,82400.0,Bachelor's,Mid-Level
+8.8,4,32,2,115400.0,PhD,Mid-Level
+11.0,4,33,2,116700.0,PhD,Mid-Level
+13.7,4,31,4,148500.0,PhD,Lead
+23.6,2,49,4,161600.0,Bachelor's,Lead
+6.0,3,26,1,76400.0,Master's,Junior
+15.4,3,35,4,152200.0,Master's,Lead
+17.8,2,40,3,131800.0,Bachelor's,Senior
+1.4,3,27,2,84400.0,Master's,Mid-Level
+18.2,1,37,5,148100.0,High School,Manager
+5.1,2,27,2,87600.0,Bachelor's,Mid-Level
+2.0,2,25,1,59200.0,Bachelor's,Junior
+28.5,1,53,5,181600.0,High School,Manager
+29.0,1,51,5,175600.0,High School,Manager
+24.3,3,45,4,169800.0,Master's,Lead
+9.1,2,29,1,90600.0,Bachelor's,Junior
+2.9,3,25,1,73200.0,Master's,Junior
+20.5,1,39,4,144700.0,High School,Lead
+13.2,2,26,4,130700.0,Bachelor's,Lead
+3.7,2,27,1,76400.0,Bachelor's,Junior
+14.9,3,40,4,133500.0,Master's,Lead
+1.0,2,22,1,65100.0,Bachelor's,Junior
+27.3,3,46,5,184200.0,Master's,Manager
+7.8,3,32,3,116600.0,Master's,Senior
+19.9,3,48,3,147000.0,Master's,Senior
+9.4,2,31,1,82800.0,Bachelor's,Junior
+15.6,1,35,5,138400.0,High School,Manager
+16.4,3,38,4,147400.0,Master's,Lead
+5.5,1,32,1,64400.0,High School,Junior
+29.1,3,49,5,195900.0,Master's,Manager
+23.3,2,43,4,155300.0,Bachelor's,Lead
+28.2,4,49,5,182900.0,PhD,Manager
+26.8,3,46,5,184200.0,Master's,Manager
+17.9,4,40,3,142600.0,PhD,Senior
+27.7,2,55,5,172000.0,Bachelor's,Manager
+2.7,3,26,1,71400.0,Master's,Junior
+5.9,2,27,3,102200.0,Bachelor's,Senior
+1.4,2,22,2,85000.0,Bachelor's,Mid-Level
+9.8,3,27,2,109000.0,Master's,Mid-Level
+11.7,3,36,2,109100.0,Master's,Mid-Level
+8.1,4,30,3,125600.0,PhD,Senior
+24.9,3,46,5,178900.0,Master's,Manager
+10.7,2,42,2,98300.0,Bachelor's,Mid-Level
+8.4,2,31,3,102300.0,Bachelor's,Senior
+16.3,3,36,5,150900.0,Master's,Manager
+4.2,2,25,1,71600.0,Bachelor's,Junior
+24.1,1,50,4,152000.0,High School,Lead
+2.2,2,25,1,68100.0,Bachelor's,Junior
+29.6,2,47,5,182900.0,Bachelor's,Manager
+23.2,2,48,5,164200.0,Bachelor's,Manager
+6.0,2,26,3,104900.0,Bachelor's,Senior
+0.2,1,28,1,48800.0,High School,Junior
+24.5,1,50,5,168000.0,High School,Manager
+21.2,4,42,5,175000.0,PhD,Manager
+21.9,2,48,4,149900.0,Bachelor's,Lead
+23.1,2,45,5,161500.0,Bachelor's,Manager
+2.2,3,27,2,86000.0,Master's,Mid-Level
+10.8,2,34,3,118800.0,Bachelor's,Senior
+3.5,4,23,1,90300.0,PhD,Junior
+25.9,3,46,5,188600.0,Master's,Manager
+18.7,1,44,5,152400.0,High School,Manager
+9.9,2,31,1,82300.0,Bachelor's,Junior
+1.9,3,23,2,86100.0,Master's,Mid-Level
+9.3,4,28,1,98400.0,PhD,Junior
+9.8,2,33,1,94000.0,Bachelor's,Junior
+21.9,3,50,4,155700.0,Master's,Lead
+19.1,2,38,4,151300.0,Bachelor's,Lead
+26.6,4,49,5,198000.0,PhD,Manager
+14.2,2,40,2,119600.0,Bachelor's,Mid-Level
+3.6,4,25,1,85900.0,PhD,Junior
+21.4,3,45,5,176100.0,Master's,Manager
+22.8,3,42,5,187500.0,Master's,Manager
+16.8,2,40,3,126000.0,Bachelor's,Senior
+23.1,2,45,5,161100.0,Bachelor's,Manager
+14.8,2,40,3,114600.0,Bachelor's,Senior
+15.7,2,41,3,129800.0,Bachelor's,Senior
+12.8,2,43,4,121600.0,Bachelor's,Lead
+0.8,3,25,2,83000.0,Master's,Mid-Level
+3.2,2,26,2,85300.0,Bachelor's,Mid-Level
+0.9,1,24,1,58300.0,High School,Junior
+19.1,4,40,4,164900.0,PhD,Lead
+9.4,3,32,3,119700.0,Master's,Senior
+15.3,4,36,5,171500.0,PhD,Manager
+27.2,4,50,5,190300.0,PhD,Manager
+7.5,2,33,3,102300.0,Bachelor's,Senior
+12.3,2,31,4,125900.0,Bachelor's,Lead
+22.7,3,48,5,179800.0,Master's,Manager
+6.9,3,33,3,116700.0,Master's,Senior
+2.3,2,24,2,83000.0,Bachelor's,Mid-Level
+8.7,3,24,3,122600.0,Master's,Senior
+4.8,2,25,1,69200.0,Bachelor's,Junior
+27.9,2,54,5,189100.0,Bachelor's,Manager
+24.2,2,46,5,179200.0,Bachelor's,Manager
+19.0,2,38,4,150200.0,Bachelor's,Lead
+26.1,2,47,5,185300.0,Bachelor's,Manager
+24.1,1,49,4,143000.0,High School,Lead
+5.6,3,29,3,106400.0,Master's,Senior
+26.8,2,48,5,174300.0,Bachelor's,Manager
+16.2,1,37,3,123100.0,High School,Senior
+24.2,3,45,5,174300.0,Master's,Manager
+26.9,4,46,5,198000.0,PhD,Manager
+9.5,3,36,1,101700.0,Master's,Junior
+3.3,3,24,1,82700.0,Master's,Junior
+6.8,3,32,2,101500.0,Master's,Mid-Level
+12.8,2,39,2,102100.0,Bachelor's,Mid-Level
+24.5,1,50,4,148100.0,High School,Lead
+25.8,2,47,5,181800.0,Bachelor's,Manager
+0.2,2,23,2,79400.0,Bachelor's,Mid-Level
+15.3,2,37,4,137100.0,Bachelor's,Lead
+12.5,3,32,2,112200.0,Master's,Mid-Level
+6.7,2,30,3,93500.0,Bachelor's,Senior
+3.6,1,22,1,58600.0,High School,Junior
+10.1,2,36,4,133900.0,Bachelor's,Lead
+28.3,3,49,5,183300.0,Master's,Manager
+9.7,1,32,3,104200.0,High School,Senior
+15.6,3,38,5,162900.0,Master's,Manager
+21.1,2,42,4,145500.0,Bachelor's,Lead
+10.9,2,35,4,127200.0,Bachelor's,Lead
+29.2,2,50,5,188600.0,Bachelor's,Manager
+28.9,3,53,5,191200.0,Master's,Manager
+7.6,2,26,2,108200.0,Bachelor's,Mid-Level
+14.9,3,37,2,112000.0,Master's,Mid-Level
+9.0,2,37,3,114900.0,Bachelor's,Senior
+8.5,2,28,3,107500.0,Bachelor's,Senior
+1.1,3,22,2,89600.0,Master's,Mid-Level
+18.3,3,42,3,142900.0,Master's,Senior
+15.1,3,38,4,141000.0,Master's,Lead
+1.5,3,25,1,76000.0,Master's,Junior
+8.4,3,32,1,82600.0,Master's,Junior
+27.2,3,51,5,190100.0,Master's,Manager
+7.2,3,33,2,102500.0,Master's,Mid-Level
+4.3,3,28,1,85100.0,Master's,Junior
+14.7,3,36,3,137000.0,Master's,Senior
+29.6,3,54,5,194800.0,Master's,Manager
+7.3,3,35,1,89900.0,Master's,Junior
+20.2,2,42,4,145000.0,Bachelor's,Lead
+22.8,3,42,5,172600.0,Master's,Manager
+7.1,3,32,2,106800.0,Master's,Mid-Level
+21.8,1,43,5,164800.0,High School,Manager
+11.0,3,27,2,109400.0,Master's,Mid-Level
+19.0,1,44,3,126700.0,High School,Senior
+19.0,2,39,5,154000.0,Bachelor's,Manager
+16.1,3,38,4,153000.0,Master's,Lead
+2.7,2,26,1,73100.0,Bachelor's,Junior
+25.1,3,48,5,191400.0,Master's,Manager
+9.6,3,34,2,102700.0,Master's,Mid-Level
+5.6,2,26,3,99100.0,Bachelor's,Senior
+1.2,1,25,2,71200.0,High School,Mid-Level
+17.7,2,39,3,134500.0,Bachelor's,Senior
+20.3,3,45,5,168700.0,Master's,Manager
+0.5,4,24,1,75900.0,PhD,Junior
+15.4,3,35,4,149800.0,Master's,Lead
+6.8,2,32,3,107600.0,Bachelor's,Senior
+19.4,3,40,4,150800.0,Master's,Lead
+5.2,2,30,3,106900.0,Bachelor's,Senior
+20.7,3,44,5,176700.0,Master's,Manager
+11.6,1,39,3,108700.0,High School,Senior
+28.1,3,49,5,189700.0,Master's,Manager
+4.1,2,25,1,76100.0,Bachelor's,Junior
+10.2,4,32,3,124300.0,PhD,Senior
+3.4,2,24,1,71700.0,Bachelor's,Junior
+27.7,3,52,5,177600.0,Master's,Manager
+26.3,4,43,5,197200.0,PhD,Manager
+7.7,1,27,2,78500.0,High School,Mid-Level
+19.8,4,39,5,184000.0,PhD,Manager
+24.5,3,49,5,178600.0,Master's,Manager
+16.7,1,44,3,119600.0,High School,Senior
+15.9,2,38,3,123600.0,Bachelor's,Senior
+7.3,3,29,2,99700.0,Master's,Mid-Level
+2.8,1,25,1,69100.0,High School,Junior
+26.9,2,52,5,165900.0,Bachelor's,Manager
+27.0,2,46,5,184900.0,Bachelor's,Manager
+19.0,3,42,4,156200.0,Master's,Lead
+10.2,1,35,2,86400.0,High School,Mid-Level
+10.5,3,34,4,127800.0,Master's,Lead
+21.8,4,44,5,189800.0,PhD,Manager
+26.9,4,52,5,189600.0,PhD,Manager
+26.6,3,41,5,179800.0,Master's,Manager
+23.4,1,47,5,167200.0,High School,Manager
+19.3,3,39,3,144800.0,Master's,Senior
+2.5,1,22,2,68600.0,High School,Mid-Level
+4.8,1,28,2,80200.0,High School,Mid-Level
+27.0,2,53,5,173300.0,Bachelor's,Manager
+18.2,2,40,5,162000.0,Bachelor's,Manager
+0.3,3,25,1,77000.0,Master's,Junior
+3.0,3,30,1,81300.0,Master's,Junior
+19.9,2,46,3,138600.0,Bachelor's,Senior
+0.2,2,27,1,72200.0,Bachelor's,Junior
+4.8,4,29,1,91100.0,PhD,Junior
+16.5,2,39,3,122200.0,Bachelor's,Senior
+20.8,2,38,5,165100.0,Bachelor's,Manager
+19.6,2,41,4,158300.0,Bachelor's,Lead
+6.7,3,26,2,94700.0,Master's,Mid-Level
+21.4,3,50,4,158600.0,Master's,Lead
+7.1,2,29,1,82900.0,Bachelor's,Junior
+9.8,1,32,3,103100.0,High School,Senior
+22.4,3,46,5,170100.0,Master's,Manager
+19.5,3,42,3,149300.0,Master's,Senior
+25.5,2,53,5,186300.0,Bachelor's,Manager
+19.7,4,40,4,165300.0,PhD,Lead
+17.0,2,40,4,137100.0,Bachelor's,Lead
+2.8,2,23,1,62300.0,Bachelor's,Junior
+11.0,4,29,3,131900.0,PhD,Senior
+8.0,2,28,3,112400.0,Bachelor's,Senior
+7.3,3,29,3,115700.0,Master's,Senior
+29.2,2,50,5,184000.0,Bachelor's,Manager
+11.8,2,32,4,125500.0,Bachelor's,Lead
+26.8,4,45,5,188400.0,PhD,Manager
+18.9,2,41,4,150500.0,Bachelor's,Lead
+23.8,3,41,5,183200.0,Master's,Manager
+15.1,2,39,4,129000.0,Bachelor's,Lead
+17.3,2,40,5,162200.0,Bachelor's,Manager
+14.8,1,32,2,106800.0,High School,Mid-Level
+5.9,3,27,2,104600.0,Master's,Mid-Level
+21.7,2,41,4,146500.0,Bachelor's,Lead
+8.4,3,31,2,97200.0,Master's,Mid-Level
+0.7,2,27,2,76100.0,Bachelor's,Mid-Level
+19.4,4,36,5,177900.0,PhD,Manager
+5.3,2,28,1,85300.0,Bachelor's,Junior
+28.2,3,50,5,193100.0,Master's,Manager
+28.6,3,53,5,189300.0,Master's,Manager
+27.4,3,50,5,182500.0,Master's,Manager
+11.1,3,31,3,128900.0,Master's,Senior
+0.5,3,22,2,79300.0,Master's,Mid-Level
+27.8,3,47,5,196800.0,Master's,Manager
+12.8,1,38,4,121700.0,High School,Lead
+29.0,1,51,5,183500.0,High School,Manager
+28.9,4,57,5,202700.0,PhD,Manager
+25.6,3,47,5,182300.0,Master's,Manager
+8.8,3,29,1,90500.0,Master's,Junior
+11.6,2,29,2,102200.0,Bachelor's,Mid-Level
+25.5,1,42,5,169000.0,High School,Manager
+9.5,1,27,3,103200.0,High School,Senior
+5.1,3,28,3,104700.0,Master's,Senior
+16.7,2,40,5,151900.0,Bachelor's,Manager
+28.1,2,45,5,181600.0,Bachelor's,Manager
+20.9,2,46,5,152600.0,Bachelor's,Manager
+17.1,1,38,4,136000.0,High School,Lead
+2.9,2,25,2,77400.0,Bachelor's,Mid-Level
+18.5,2,45,4,139400.0,Bachelor's,Lead
+29.7,3,54,5,184800.0,Master's,Manager
+4.2,2,25,1,64500.0,Bachelor's,Junior
+15.5,2,35,5,143100.0,Bachelor's,Manager
+26.3,1,42,5,165300.0,High School,Manager
+22.2,1,42,5,168300.0,High School,Manager
+20.9,2,42,5,160600.0,Bachelor's,Manager
+21.1,2,40,5,164600.0,Bachelor's,Manager
+10.8,3,32,3,124000.0,Master's,Senior
+8.8,2,31,1,85700.0,Bachelor's,Junior
+24.3,3,46,5,179300.0,Master's,Manager
+24.3,3,44,5,173800.0,Master's,Manager
+26.0,3,49,5,191300.0,Master's,Manager
+27.4,1,51,5,180500.0,High School,Manager
+15.3,2,34,5,140900.0,Bachelor's,Manager
+15.0,1,41,5,135500.0,High School,Manager
+23.9,2,46,4,157500.0,Bachelor's,Lead
+19.5,4,42,3,146900.0,PhD,Senior
+21.1,1,45,4,146200.0,High School,Lead
+23.9,2,47,5,167000.0,Bachelor's,Manager
+26.7,3,52,5,196600.0,Master's,Manager
+10.1,3,33,2,114300.0,Master's,Mid-Level
+11.3,2,31,2,104200.0,Bachelor's,Mid-Level
+2.8,1,26,1,67200.0,High School,Junior
+17.3,2,36,5,159900.0,Bachelor's,Manager
+1.1,2,23,2,74900.0,Bachelor's,Mid-Level
+14.0,1,36,4,121800.0,High School,Lead
+16.3,2,38,4,140100.0,Bachelor's,Lead
+8.6,1,30,2,92800.0,High School,Mid-Level
+17.7,1,34,3,124000.0,High School,Senior
+0.9,2,22,2,69400.0,Bachelor's,Mid-Level
+1.1,1,23,1,53800.0,High School,Junior
+24.7,2,47,5,172300.0,Bachelor's,Manager
+10.8,3,30,4,133600.0,Master's,Lead
+3.8,3,30,2,102400.0,Master's,Mid-Level
+15.7,2,35,4,131200.0,Bachelor's,Lead
+23.1,2,48,5,171300.0,Bachelor's,Manager
+6.5,1,30,3,102600.0,High School,Senior
+18.7,3,39,3,153100.0,Master's,Senior
+2.6,3,30,2,87400.0,Master's,Mid-Level
+1.6,1,22,2,73300.0,High School,Mid-Level
+15.9,4,41,3,145700.0,PhD,Senior
+16.2,1,41,5,144500.0,High School,Manager
+19.1,2,39,3,134300.0,Bachelor's,Senior
+21.8,3,48,5,175600.0,Master's,Manager
+29.3,3,51,5,179500.0,Master's,Manager
+15.5,3,38,3,137100.0,Master's,Senior
+9.7,3,32,2,107900.0,Master's,Mid-Level
+23.9,2,45,5,169500.0,Bachelor's,Manager
+8.1,3,33,1,101500.0,Master's,Junior
+13.2,1,38,3,108500.0,High School,Senior
+2.4,3,22,2,86900.0,Master's,Mid-Level
+0.8,2,27,2,86900.0,Bachelor's,Mid-Level
+28.9,3,46,5,187000.0,Master's,Manager
+25.1,2,50,5,170900.0,Bachelor's,Manager
+20.9,3,46,5,170500.0,Master's,Manager
+12.3,2,31,4,133900.0,Bachelor's,Lead
+5.2,3,26,2,97000.0,Master's,Mid-Level
+4.7,1,23,1,60300.0,High School,Junior
+7.5,1,29,3,95100.0,High School,Senior
+16.5,2,38,5,149200.0,Bachelor's,Manager
+21.4,2,46,4,152200.0,Bachelor's,Lead
+19.8,3,46,3,146600.0,Master's,Senior
+8.4,2,35,3,110100.0,Bachelor's,Senior
+28.6,4,49,5,189700.0,PhD,Manager
+22.1,2,44,5,171700.0,Bachelor's,Manager
+16.6,2,34,5,153800.0,Bachelor's,Manager
+18.4,3,38,3,147800.0,Master's,Senior
+12.6,3,37,2,116700.0,Master's,Mid-Level
+7.4,2,34,2,99100.0,Bachelor's,Mid-Level
+10.7,2,29,3,116000.0,Bachelor's,Senior
+22.7,3,43,5,182600.0,Master's,Manager
+0.4,2,22,2,78700.0,Bachelor's,Mid-Level
+3.5,4,26,1,87200.0,PhD,Junior
+1.4,4,22,2,105800.0,PhD,Mid-Level
+1.2,3,24,1,78500.0,Master's,Junior
+25.7,2,46,5,178000.0,Bachelor's,Manager
+21.1,3,43,5,165400.0,Master's,Manager
+14.2,1,38,3,108100.0,High School,Senior
+2.9,1,25,1,63800.0,High School,Junior
+14.7,2,35,4,136600.0,Bachelor's,Lead
+14.2,2,36,2,107400.0,Bachelor's,Mid-Level
+5.2,3,27,1,84700.0,Master's,Junior
+13.0,3,34,3,135500.0,Master's,Senior
+12.0,3,33,3,128400.0,Master's,Senior
+18.5,2,45,4,139500.0,Bachelor's,Lead
+19.1,2,43,4,146100.0,Bachelor's,Lead
+1.4,2,22,1,62400.0,Bachelor's,Junior
+11.2,4,35,4,141200.0,PhD,Lead
+18.8,1,40,5,147900.0,High School,Manager
+15.1,3,41,5,154300.0,Master's,Manager
+25.7,2,49,5,169000.0,Bachelor's,Manager
+19.8,2,41,4,147800.0,Bachelor's,Lead
+4.9,3,28,1,80400.0,Master's,Junior
+2.1,2,22,1,53600.0,Bachelor's,Junior
+19.3,3,38,5,177400.0,Master's,Manager
+0.8,4,22,1,86400.0,PhD,Junior
+17.6,2,40,4,141100.0,Bachelor's,Lead
+28.2,2,55,5,181600.0,Bachelor's,Manager
+17.3,2,46,3,124300.0,Bachelor's,Senior
+11.6,4,36,3,140600.0,PhD,Senior
+19.3,2,43,3,144700.0,Bachelor's,Senior
+13.7,3,30,2,118200.0,Master's,Mid-Level
+16.4,3,37,4,153000.0,Master's,Lead
+28.2,3,48,5,190500.0,Master's,Manager
+11.6,1,32,3,101300.0,High School,Senior
+28.8,3,50,5,189000.0,Master's,Manager
+27.2,4,48,5,195600.0,PhD,Manager
+5.9,2,22,3,99400.0,Bachelor's,Senior
+2.1,2,26,1,67100.0,Bachelor's,Junior
+3.0,4,22,1,86100.0,PhD,Junior
+0.5,2,23,1,64000.0,Bachelor's,Junior
+2.8,3,31,1,78300.0,Master's,Junior
+20.5,2,40,4,144900.0,Bachelor's,Lead
+2.1,2,22,2,76800.0,Bachelor's,Mid-Level
+9.6,3,31,2,100500.0,Master's,Mid-Level
+25.3,2,51,5,179300.0,Bachelor's,Manager
+0.7,2,29,2,66200.0,Bachelor's,Mid-Level
+24.4,2,43,5,177900.0,Bachelor's,Manager
+8.5,2,32,1,91100.0,Bachelor's,Junior
+3.5,2,24,2,82400.0,Bachelor's,Mid-Level
+20.9,2,43,5,150200.0,Bachelor's,Manager
+18.9,4,49,5,172400.0,PhD,Manager
+26.3,2,44,5,176500.0,Bachelor's,Manager
+22.1,3,45,5,169100.0,Master's,Manager
+24.1,2,48,5,168700.0,Bachelor's,Manager
+8.5,3,34,1,99800.0,Master's,Junior
+5.3,1,28,3,95600.0,High School,Senior
+22.5,4,45,5,178700.0,PhD,Manager
+24.2,2,45,4,151500.0,Bachelor's,Lead
+29.7,2,53,5,183700.0,Bachelor's,Manager
+12.4,1,33,2,96900.0,High School,Mid-Level
+11.2,2,35,4,129400.0,Bachelor's,Lead
+23.3,2,44,5,166600.0,Bachelor's,Manager
+10.2,2,33,4,127100.0,Bachelor's,Lead
+27.9,3,50,5,198500.0,Master's,Manager
+25.8,2,51,5,179500.0,Bachelor's,Manager
+12.9,2,35,4,130900.0,Bachelor's,Lead
+22.5,3,39,4,162400.0,Master's,Lead
+22.6,3,48,5,173800.0,Master's,Manager
+3.1,2,22,1,76600.0,Bachelor's,Junior
+27.1,2,47,5,175600.0,Bachelor's,Manager
+15.2,1,35,3,117100.0,High School,Senior
+24.8,3,51,5,181200.0,Master's,Manager
+9.6,3,25,1,92500.0,Master's,Junior
+26.9,2,58,5,171300.0,Bachelor's,Manager
+11.7,3,37,3,125800.0,Master's,Senior
+0.3,3,23,1,71500.0,Master's,Junior
+27.2,2,49,5,181400.0,Bachelor's,Manager
+2.7,3,26,2,87200.0,Master's,Mid-Level
+9.6,2,33,2,105100.0,Bachelor's,Mid-Level
+28.5,1,52,5,169900.0,High School,Manager
+28.5,2,52,5,190900.0,Bachelor's,Manager
+17.2,1,39,4,125300.0,High School,Lead
+19.0,2,40,5,160600.0,Bachelor's,Manager
+13.5,4,35,3,139000.0,PhD,Senior
+8.8,1,30,2,85000.0,High School,Mid-Level
+9.9,1,35,3,105800.0,High School,Senior
+20.2,2,44,5,167800.0,Bachelor's,Manager
+22.6,4,36,5,172300.0,PhD,Manager
+23.7,2,48,5,172900.0,Bachelor's,Manager
+23.7,2,46,5,157800.0,Bachelor's,Manager
+2.7,1,25,1,57000.0,High School,Junior
+14.8,1,36,4,136200.0,High School,Lead
+1.7,4,27,1,80400.0,PhD,Junior
+16.5,4,41,4,150300.0,PhD,Lead
+13.2,1,33,2,99100.0,High School,Mid-Level
+26.6,4,50,5,203900.0,PhD,Manager
+10.5,3,30,4,124200.0,Master's,Lead
+3.5,3,22,1,74500.0,Master's,Junior
+4.3,2,24,1,81200.0,Bachelor's,Junior
+22.8,2,47,5,177400.0,Bachelor's,Manager
+18.5,2,43,4,144800.0,Bachelor's,Lead
+3.0,3,27,2,84400.0,Master's,Mid-Level
+2.5,1,27,1,71800.0,High School,Junior
+21.0,1,45,4,151500.0,High School,Lead
+2.2,2,22,1,71900.0,Bachelor's,Junior
+24.7,3,48,4,164600.0,Master's,Lead
+21.2,2,46,5,163700.0,Bachelor's,Manager
+2.4,3,27,1,76300.0,Master's,Junior
+2.5,4,28,2,99000.0,PhD,Mid-Level
+29.6,1,54,5,184300.0,High School,Manager
+11.2,3,34,3,127500.0,Master's,Senior
+11.1,2,36,4,121400.0,Bachelor's,Lead
+24.4,3,46,5,186800.0,Master's,Manager
+28.4,2,48,5,183600.0,Bachelor's,Manager
+29.6,3,51,5,196400.0,Master's,Manager
+22.6,3,42,5,182800.0,Master's,Manager
+11.3,4,31,4,137700.0,PhD,Lead
+2.5,3,24,2,89100.0,Master's,Mid-Level
+23.3,2,43,5,166600.0,Bachelor's,Manager
+16.8,3,38,4,141000.0,Master's,Lead
+12.7,3,29,3,128600.0,Master's,Senior
+27.2,2,50,5,191500.0,Bachelor's,Manager
+3.3,1,25,1,54100.0,High School,Junior
+14.8,4,34,3,139800.0,PhD,Senior
+0.3,3,24,1,75100.0,Master's,Junior
+14.1,3,39,4,142800.0,Master's,Lead
+1.7,2,22,1,66700.0,Bachelor's,Junior
+3.6,3,23,2,85400.0,Master's,Mid-Level
+3.5,2,23,1,73000.0,Bachelor's,Junior
+19.5,3,39,3,139900.0,Master's,Senior
+22.4,1,47,5,148000.0,High School,Manager
+17.5,3,39,5,168700.0,Master's,Manager
+28.9,4,50,5,204000.0,PhD,Manager
+11.2,1,27,3,107400.0,High School,Senior
+8.6,4,32,1,101600.0,PhD,Junior
+26.1,2,44,5,181500.0,Bachelor's,Manager
+6.7,3,29,2,100900.0,Master's,Mid-Level
+28.9,3,52,5,195800.0,Master's,Manager
+0.4,2,26,1,62400.0,Bachelor's,Junior
+29.1,3,47,5,198300.0,Master's,Manager
+1.3,3,22,1,75800.0,Master's,Junior
+26.7,2,49,5,178800.0,Bachelor's,Manager
+15.8,2,43,3,120200.0,Bachelor's,Senior
+29.8,3,56,5,194900.0,Master's,Manager
+2.2,3,25,2,84400.0,Master's,Mid-Level
+16.6,3,37,3,133300.0,Master's,Senior
+29.1,3,54,5,187600.0,Master's,Manager
+15.7,2,35,4,132900.0,Bachelor's,Lead
+18.9,3,42,5,176800.0,Master's,Manager
+20.9,1,44,5,161800.0,High School,Manager
+13.6,2,39,4,142700.0,Bachelor's,Lead
+18.8,1,49,5,144000.0,High School,Manager
+17.5,2,41,5,155200.0,Bachelor's,Manager
+27.0,2,48,5,172100.0,Bachelor's,Manager
+1.4,2,23,1,62900.0,Bachelor's,Junior
+8.4,3,25,1,87500.0,Master's,Junior
+28.5,2,48,5,188500.0,Bachelor's,Manager
+26.7,2,47,5,175800.0,Bachelor's,Manager
+13.7,2,34,2,114500.0,Bachelor's,Mid-Level
+18.6,2,41,4,148500.0,Bachelor's,Lead
+8.3,2,28,1,95300.0,Bachelor's,Junior
+5.6,1,31,1,61700.0,High School,Junior
+13.9,3,36,4,148100.0,Master's,Lead
+10.6,3,33,3,127200.0,Master's,Senior
+17.5,3,39,5,157900.0,Master's,Manager
+2.3,2,25,2,85900.0,Bachelor's,Mid-Level
+29.2,2,54,5,185800.0,Bachelor's,Manager
+29.6,3,49,5,191800.0,Master's,Manager
+20.9,2,41,5,159200.0,Bachelor's,Manager
+16.1,2,37,5,147600.0,Bachelor's,Manager
+9.3,1,27,3,112500.0,High School,Senior
+24.4,2,44,5,172000.0,Bachelor's,Manager
+20.5,2,41,4,154300.0,Bachelor's,Lead
+4.9,2,30,1,71200.0,Bachelor's,Junior
+27.3,2,50,5,175400.0,Bachelor's,Manager
+24.7,2,47,4,166100.0,Bachelor's,Lead
+28.5,3,53,5,183500.0,Master's,Manager
+21.8,3,43,4,159400.0,Master's,Lead
+18.4,3,42,3,141200.0,Master's,Senior
+12.5,3,34,3,126900.0,Master's,Senior
+28.0,4,51,5,196100.0,PhD,Manager
+26.0,1,46,5,169900.0,High School,Manager
+1.4,2,22,1,69900.0,Bachelor's,Junior
+0.8,1,22,1,60700.0,High School,Junior
+11.3,3,38,3,118300.0,Master's,Senior
+24.3,3,49,5,178400.0,Master's,Manager
+29.6,2,55,5,191000.0,Bachelor's,Manager
+4.5,4,30,2,106800.0,PhD,Mid-Level
+17.8,1,40,3,116700.0,High School,Senior
+11.4,4,34,2,121300.0,PhD,Mid-Level
+29.1,2,49,5,173900.0,Bachelor's,Manager
+25.3,1,46,5,166400.0,High School,Manager
+25.1,2,49,5,183400.0,Bachelor's,Manager
+14.1,2,40,3,117400.0,Bachelor's,Senior
+12.4,2,34,2,101900.0,Bachelor's,Mid-Level
+8.2,2,29,2,99300.0,Bachelor's,Mid-Level
+1.7,3,24,2,79500.0,Master's,Mid-Level
+25.9,2,50,5,172700.0,Bachelor's,Manager
+24.4,2,42,4,162900.0,Bachelor's,Lead
+30.0,3,45,5,190800.0,Master's,Manager
+29.9,3,50,5,192600.0,Master's,Manager
+16.7,2,35,4,144400.0,Bachelor's,Lead
+23.1,2,44,4,158800.0,Bachelor's,Lead
+28.3,1,50,5,175200.0,High School,Manager
+25.5,2,46,5,173000.0,Bachelor's,Manager
+7.4,3,34,2,103400.0,Master's,Mid-Level
+13.5,2,36,2,108200.0,Bachelor's,Mid-Level
+3.9,2,27,1,75000.0,Bachelor's,Junior
+28.6,3,52,5,188100.0,Master's,Manager
+18.2,1,37,5,147600.0,High School,Manager
+6.9,2,32,2,87200.0,Bachelor's,Mid-Level
+20.2,2,42,5,161200.0,Bachelor's,Manager
+18.5,4,43,5,169300.0,PhD,Manager
+10.7,2,30,2,96300.0,Bachelor's,Mid-Level
+3.4,3,22,2,92800.0,Master's,Mid-Level
+20.1,2,45,5,162400.0,Bachelor's,Manager
+15.6,1,39,3,121900.0,High School,Senior
+23.2,3,42,5,174800.0,Master's,Manager
+15.6,4,35,3,144100.0,PhD,Senior
+25.6,3,51,5,185700.0,Master's,Manager
+16.6,3,35,3,138600.0,Master's,Senior
+16.8,3,44,5,156900.0,Master's,Manager
+26.3,2,46,5,177500.0,Bachelor's,Manager
+12.1,2,36,4,131100.0,Bachelor's,Lead
+4.0,3,25,1,81100.0,Master's,Junior
+0.9,2,25,1,54700.0,Bachelor's,Junior
+22.7,3,43,5,176400.0,Master's,Manager
+18.6,4,40,5,184600.0,PhD,Manager
+21.1,2,43,5,162000.0,Bachelor's,Manager
+6.4,2,25,2,87300.0,Bachelor's,Mid-Level
+4.1,3,28,1,83100.0,Master's,Junior
+0.4,2,22,1,65700.0,Bachelor's,Junior
+10.5,3,32,4,139300.0,Master's,Lead
+17.7,2,37,4,137000.0,Bachelor's,Lead
+11.8,3,26,3,128100.0,Master's,Senior
+13.1,1,35,2,102800.0,High School,Mid-Level
+27.1,3,56,5,186100.0,Master's,Manager
+10.4,2,35,2,102800.0,Bachelor's,Mid-Level
+15.4,2,37,4,142700.0,Bachelor's,Lead
+23.5,2,45,4,162100.0,Bachelor's,Lead
+11.9,3,34,2,107000.0,Master's,Mid-Level
+18.7,3,42,5,169800.0,Master's,Manager
+25.9,2,44,5,175400.0,Bachelor's,Manager
+28.5,1,54,5,174600.0,High School,Manager
+4.4,1,29,1,66400.0,High School,Junior
+27.8,3,52,5,187700.0,Master's,Manager
+14.8,3,38,4,149900.0,Master's,Lead
+7.7,2,30,1,81900.0,Bachelor's,Junior
+13.8,2,38,4,127800.0,Bachelor's,Lead
+29.4,2,53,5,182500.0,Bachelor's,Manager
+14.8,2,36,4,136800.0,Bachelor's,Lead
+9.9,2,30,2,105800.0,Bachelor's,Mid-Level
+19.0,4,41,5,177500.0,PhD,Manager
+7.2,1,34,3,92800.0,High School,Senior
+2.3,3,22,1,89100.0,Master's,Junior
+3.9,2,22,2,86000.0,Bachelor's,Mid-Level
+3.8,2,26,1,79000.0,Bachelor's,Junior
+4.6,3,27,1,81600.0,Master's,Junior
+4.2,3,27,1,84100.0,Master's,Junior
+19.2,4,42,3,155300.0,PhD,Senior
+5.5,1,27,3,98700.0,High School,Senior
+10.4,1,37,3,110200.0,High School,Senior
+26.9,3,44,5,190600.0,Master's,Manager
+14.2,2,34,3,121000.0,Bachelor's,Senior
+20.0,2,42,5,158200.0,Bachelor's,Manager
+5.2,1,22,1,69600.0,High School,Junior
+5.8,1,27,2,86100.0,High School,Mid-Level
+1.2,3,28,2,85000.0,Master's,Mid-Level
+5.1,2,27,1,81000.0,Bachelor's,Junior
+8.4,2,31,2,103200.0,Bachelor's,Mid-Level
+5.3,2,24,1,71700.0,Bachelor's,Junior
+2.7,2,23,1,65500.0,Bachelor's,Junior
+3.6,1,24,1,63300.0,High School,Junior
+13.8,2,35,3,123100.0,Bachelor's,Senior
+6.2,1,32,1,67900.0,High School,Junior
+10.9,3,35,4,141100.0,Master's,Lead
+15.1,2,34,3,126900.0,Bachelor's,Senior
+20.7,2,43,5,163000.0,Bachelor's,Manager
+1.2,3,25,1,66800.0,Master's,Junior
+24.0,3,49,5,172400.0,Master's,Manager
+18.8,2,46,3,135500.0,Bachelor's,Senior
+2.5,2,22,2,70500.0,Bachelor's,Mid-Level
+26.2,2,46,5,181600.0,Bachelor's,Manager
+27.6,3,46,5,187300.0,Master's,Manager
+1.8,4,23,1,99800.0,PhD,Junior
+8.3,3,32,3,127300.0,Master's,Senior
+24.2,2,49,4,158600.0,Bachelor's,Lead
+22.4,3,44,5,174600.0,Master's,Manager
+5.5,2,27,2,93800.0,Bachelor's,Mid-Level
+6.3,1,29,1,79200.0,High School,Junior
+11.1,2,31,2,94600.0,Bachelor's,Mid-Level
+14.5,4,43,2,118400.0,PhD,Mid-Level
+18.5,2,36,4,142300.0,Bachelor's,Lead
+11.1,3,34,4,137600.0,Master's,Lead
+13.9,2,42,2,112200.0,Bachelor's,Mid-Level
+22.4,2,44,5,172400.0,Bachelor's,Manager
+1.1,1,23,2,63800.0,High School,Mid-Level
+7.6,2,29,2,82400.0,Bachelor's,Mid-Level
+21.4,3,43,4,164800.0,Master's,Lead
+26.9,2,53,5,174000.0,Bachelor's,Manager
+15.4,3,31,3,123300.0,Master's,Senior
+16.0,3,43,3,135600.0,Master's,Senior
+3.2,4,22,1,91000.0,PhD,Junior
+13.4,2,35,2,107900.0,Bachelor's,Mid-Level
+16.0,2,37,3,124700.0,Bachelor's,Senior
+7.3,2,31,3,104400.0,Bachelor's,Senior
+8.1,4,25,2,109300.0,PhD,Mid-Level
+11.3,4,35,2,112600.0,PhD,Mid-Level
+0.6,2,29,2,72900.0,Bachelor's,Mid-Level
+9.7,3,28,2,109800.0,Master's,Mid-Level
+6.3,2,29,2,92500.0,Bachelor's,Mid-Level
+9.8,3,30,3,120400.0,Master's,Senior
+3.6,1,27,2,71000.0,High School,Mid-Level
+26.7,3,49,5,184900.0,Master's,Manager
+17.8,1,38,5,136600.0,High School,Manager
+20.4,3,44,5,170800.0,Master's,Manager
+23.7,3,51,4,173300.0,Master's,Lead
+15.0,3,36,2,113000.0,Master's,Mid-Level
+2.6,1,27,1,58600.0,High School,Junior
+16.1,2,34,3,128900.0,Bachelor's,Senior
+17.6,2,37,3,137300.0,Bachelor's,Senior
+22.4,2,46,4,152700.0,Bachelor's,Lead
+12.9,1,39,4,119900.0,High School,Lead
+3.8,4,27,1,78700.0,PhD,Junior
+8.5,2,30,2,96800.0,Bachelor's,Mid-Level
+10.9,2,33,3,124400.0,Bachelor's,Senior
+19.4,2,38,4,148800.0,Bachelor's,Lead
+17.1,2,41,3,129700.0,Bachelor's,Senior
+10.7,3,35,2,111300.0,Master's,Mid-Level
+29.6,2,50,5,184900.0,Bachelor's,Manager
+18.2,4,39,4,156400.0,PhD,Lead
+7.1,2,30,1,84900.0,Bachelor's,Junior
+3.1,4,24,1,87800.0,PhD,Junior
+4.6,3,26,2,94600.0,Master's,Mid-Level
+7.4,2,36,3,100600.0,Bachelor's,Senior
+4.8,4,26,2,109600.0,PhD,Mid-Level
+5.6,1,27,1,72300.0,High School,Junior
+8.6,3,29,1,89600.0,Master's,Junior
+5.2,2,29,3,105000.0,Bachelor's,Senior
+26.9,3,48,5,183800.0,Master's,Manager
+2.4,3,22,2,85100.0,Master's,Mid-Level
+15.7,3,42,5,154500.0,Master's,Manager
+12.3,3,39,4,128900.0,Master's,Lead
+29.5,2,50,5,187000.0,Bachelor's,Manager
+3.4,1,22,1,54200.0,High School,Junior
+11.9,2,37,3,110700.0,Bachelor's,Senior
+29.1,2,49,5,173300.0,Bachelor's,Manager
+26.0,3,50,5,183500.0,Master's,Manager
+24.5,2,41,5,171500.0,Bachelor's,Manager
+7.7,4,32,2,108700.0,PhD,Mid-Level
+5.1,3,23,3,102600.0,Master's,Senior
+20.1,3,44,4,151300.0,Master's,Lead
+27.9,1,50,5,175000.0,High School,Manager
+16.7,3,36,4,146000.0,Master's,Lead
+17.1,4,38,4,159500.0,PhD,Lead
+8.4,2,32,1,79600.0,Bachelor's,Junior
+23.1,3,45,5,177600.0,Master's,Manager
+5.6,3,29,2,103500.0,Master's,Mid-Level
+9.7,2,38,1,90200.0,Bachelor's,Junior
+12.8,2,30,3,116800.0,Bachelor's,Senior
+15.2,2,42,3,126400.0,Bachelor's,Senior
+7.3,1,30,1,72000.0,High School,Junior
+3.4,2,23,2,83700.0,Bachelor's,Mid-Level
+18.3,1,36,4,135200.0,High School,Lead
+8.7,1,30,3,99800.0,High School,Senior
+17.4,1,42,4,135700.0,High School,Lead
+4.6,4,26,2,97600.0,PhD,Mid-Level
+14.4,2,41,3,118000.0,Bachelor's,Senior
+16.0,4,34,5,160000.0,PhD,Manager
+1.6,2,24,1,58900.0,Bachelor's,Junior
+10.1,2,28,3,106200.0,Bachelor's,Senior
+4.0,2,27,1,73900.0,Bachelor's,Junior
+1.9,2,27,1,63300.0,Bachelor's,Junior
+29.7,1,50,5,179800.0,High School,Manager
+9.7,3,24,2,107400.0,Master's,Mid-Level
+24.3,2,47,5,161900.0,Bachelor's,Manager
+7.6,3,31,3,117400.0,Master's,Senior
+20.4,3,44,4,162200.0,Master's,Lead
+22.8,2,49,5,163000.0,Bachelor's,Manager
+17.9,1,37,5,149800.0,High School,Manager
+14.1,3,38,4,138100.0,Master's,Lead
+12.4,2,38,3,118400.0,Bachelor's,Senior
+10.5,1,27,2,86800.0,High School,Mid-Level
+27.9,4,51,5,187700.0,PhD,Manager
+24.9,1,45,5,163400.0,High School,Manager
+29.0,3,51,5,190800.0,Master's,Manager
+3.7,4,27,2,98300.0,PhD,Mid-Level
+21.9,2,42,5,159900.0,Bachelor's,Manager
+28.2,1,48,5,171400.0,High School,Manager
+5.4,1,28,2,81900.0,High School,Mid-Level
+2.0,2,22,1,67800.0,Bachelor's,Junior
+22.2,1,41,4,147500.0,High School,Lead
+17.2,3,41,4,146700.0,Master's,Lead
+25.3,1,44,5,172000.0,High School,Manager
+4.2,2,28,2,79600.0,Bachelor's,Mid-Level
+23.9,4,47,5,189100.0,PhD,Manager
+6.0,3,23,1,92000.0,Master's,Junior
+4.9,3,25,2,97700.0,Master's,Mid-Level
+4.9,2,31,1,74300.0,Bachelor's,Junior
+24.4,3,43,5,177500.0,Master's,Manager
+20.0,2,41,3,142100.0,Bachelor's,Senior
+15.7,2,39,5,143100.0,Bachelor's,Manager
+10.8,1,35,4,113100.0,High School,Lead
+26.3,3,48,5,182800.0,Master's,Manager
+11.8,2,32,2,110600.0,Bachelor's,Mid-Level
+24.5,2,51,5,174100.0,Bachelor's,Manager
+13.2,2,40,4,127100.0,Bachelor's,Lead
+11.3,2,36,3,113700.0,Bachelor's,Senior
+13.9,3,36,4,138600.0,Master's,Lead
+9.0,3,29,3,114100.0,Master's,Senior
+22.4,3,42,5,180000.0,Master's,Manager
+15.1,1,39,5,133800.0,High School,Manager
+7.0,2,30,3,112500.0,Bachelor's,Senior
+27.0,2,53,5,182600.0,Bachelor's,Manager
+11.5,1,35,2,101200.0,High School,Mid-Level
+16.3,2,34,4,137500.0,Bachelor's,Lead
+27.2,3,52,5,186200.0,Master's,Manager
+18.7,1,38,4,130700.0,High School,Lead
+3.5,2,24,1,69100.0,Bachelor's,Junior
+28.2,2,51,5,184000.0,Bachelor's,Manager
+18.8,1,47,4,144600.0,High School,Lead
+10.0,2,41,2,94600.0,Bachelor's,Mid-Level
+4.2,4,28,1,87600.0,PhD,Junior
+23.8,3,45,4,165800.0,Master's,Lead
+18.6,4,42,4,154500.0,PhD,Lead
+16.0,2,41,3,130000.0,Bachelor's,Senior
+26.8,1,48,5,166400.0,High School,Manager
+23.7,2,51,4,157200.0,Bachelor's,Lead
+4.6,2,27,1,72100.0,Bachelor's,Junior
+9.4,3,33,2,102400.0,Master's,Mid-Level
+7.5,1,31,1,73600.0,High School,Junior
+22.3,2,46,5,165700.0,Bachelor's,Manager
+1.0,2,26,1,63700.0,Bachelor's,Junior
+17.1,2,37,4,138100.0,Bachelor's,Lead
+22.9,3,43,5,177800.0,Master's,Manager
+26.3,2,45,5,185000.0,Bachelor's,Manager
+10.3,2,34,3,113400.0,Bachelor's,Senior
+24.6,2,49,4,165600.0,Bachelor's,Lead
+3.3,2,27,1,64300.0,Bachelor's,Junior
+25.4,3,52,5,183300.0,Master's,Manager
+3.8,3,26,1,75100.0,Master's,Junior
+11.9,4,36,2,113400.0,PhD,Mid-Level
+23.9,3,43,5,175100.0,Master's,Manager
+4.5,2,25,1,80200.0,Bachelor's,Junior
+6.9,3,31,3,116900.0,Master's,Senior
+21.7,2,46,5,166400.0,Bachelor's,Manager
+21.6,2,43,5,157300.0,Bachelor's,Manager
+19.2,3,41,5,166100.0,Master's,Manager
+20.8,1,38,5,156600.0,High School,Manager
+16.3,4,37,3,144600.0,PhD,Senior
+7.6,2,32,3,96700.0,Bachelor's,Senior
+10.4,3,34,3,116500.0,Master's,Senior
+5.4,3,29,3,108300.0,Master's,Senior
+27.3,3,49,5,189800.0,Master's,Manager
+17.5,3,40,4,139800.0,Master's,Lead
+12.0,3,32,3,124300.0,Master's,Senior
+13.9,1,38,2,102400.0,High School,Mid-Level
+28.4,2,52,5,186300.0,Bachelor's,Manager
+4.6,2,28,2,90000.0,Bachelor's,Mid-Level
+17.6,3,38,5,165900.0,Master's,Manager
+15.2,2,31,3,120900.0,Bachelor's,Senior
+18.3,3,44,3,131300.0,Master's,Senior
+0.5,1,22,1,54400.0,High School,Junior
+26.2,1,46,5,173400.0,High School,Manager
+28.0,3,52,5,195900.0,Master's,Manager
+17.0,1,38,5,148900.0,High School,Manager
+20.9,1,46,4,145400.0,High School,Lead
+27.7,1,52,5,174100.0,High School,Manager
+21.2,4,45,4,165300.0,PhD,Lead
+4.6,3,22,1,81800.0,Master's,Junior
+17.3,2,43,3,138600.0,Bachelor's,Senior
+18.2,2,41,3,127800.0,Bachelor's,Senior
+12.7,2,34,2,114900.0,Bachelor's,Mid-Level
+22.1,3,45,5,172600.0,Master's,Manager
+28.0,3,45,5,195700.0,Master's,Manager
+27.8,2,51,5,173400.0,Bachelor's,Manager
+13.5,2,32,4,135700.0,Bachelor's,Lead
+3.4,1,22,1,59800.0,High School,Junior
+29.5,3,47,5,185800.0,Master's,Manager
+25.2,3,51,5,183000.0,Master's,Manager
+3.7,2,24,1,77400.0,Bachelor's,Junior
+27.6,1,54,5,167800.0,High School,Manager
+26.1,1,46,5,160700.0,High School,Manager
+15.6,4,32,5,165500.0,PhD,Manager
+17.7,2,36,3,130900.0,Bachelor's,Senior
+12.0,3,38,2,115700.0,Master's,Mid-Level
+1.6,3,23,1,79900.0,Master's,Junior
+10.1,2,30,3,111800.0,Bachelor's,Senior
+24.1,2,47,5,180500.0,Bachelor's,Manager
+0.1,1,24,1,56500.0,High School,Junior
+10.0,3,35,4,130300.0,Master's,Lead
+11.9,3,38,4,128800.0,Master's,Lead
+16.1,3,37,4,146000.0,Master's,Lead
+27.6,2,46,5,178300.0,Bachelor's,Manager
+10.4,1,31,4,121800.0,High School,Lead
+10.4,4,33,3,131300.0,PhD,Senior
+22.1,3,41,5,168400.0,Master's,Manager
+13.6,2,33,4,133800.0,Bachelor's,Lead
+6.7,4,30,1,99200.0,PhD,Junior
+13.6,3,35,2,124600.0,Master's,Mid-Level
+4.2,2,26,2,90000.0,Bachelor's,Mid-Level
+5.3,3,25,2,100000.0,Master's,Mid-Level
+15.0,3,36,2,120700.0,Master's,Mid-Level
+12.6,3,32,4,140400.0,Master's,Lead
+27.4,1,52,5,177900.0,High School,Manager
+10.9,2,36,2,95500.0,Bachelor's,Mid-Level
+17.4,4,34,3,144800.0,PhD,Senior
+19.0,2,38,5,154600.0,Bachelor's,Manager
+0.4,2,22,1,65900.0,Bachelor's,Junior
+19.9,2,40,4,154900.0,Bachelor's,Lead
+5.3,2,27,2,85400.0,Bachelor's,Mid-Level
+28.8,3,46,5,179100.0,Master's,Manager
+4.5,4,24,2,100100.0,PhD,Mid-Level
+12.4,2,31,2,110700.0,Bachelor's,Mid-Level
+2.6,1,25,1,64100.0,High School,Junior
+29.9,2,52,5,187900.0,Bachelor's,Manager
+15.1,3,35,5,155300.0,Master's,Manager
+17.9,3,40,3,133300.0,Master's,Senior
+2.0,2,22,1,70600.0,Bachelor's,Junior
+22.5,3,44,5,171100.0,Master's,Manager
+6.3,3,33,1,97700.0,Master's,Junior
+26.9,3,53,5,189200.0,Master's,Manager
+6.2,4,24,2,103500.0,PhD,Mid-Level
+5.7,2,30,2,86200.0,Bachelor's,Mid-Level
+1.1,3,26,1,73300.0,Master's,Junior
+14.2,2,33,2,109200.0,Bachelor's,Mid-Level
+16.9,3,41,4,154900.0,Master's,Lead
+2.0,3,29,1,76900.0,Master's,Junior
+23.3,3,42,5,173500.0,Master's,Manager
+13.6,3,33,2,126400.0,Master's,Mid-Level
+15.7,2,41,4,138600.0,Bachelor's,Lead
+13.2,2,36,4,135900.0,Bachelor's,Lead
+12.0,4,36,3,130000.0,PhD,Senior
+16.8,4,40,4,158800.0,PhD,Lead
+4.7,1,28,2,80200.0,High School,Mid-Level
+5.5,2,23,1,67200.0,Bachelor's,Junior
+25.9,1,51,5,177700.0,High School,Manager
+28.4,3,54,5,196400.0,Master's,Manager
+11.2,3,33,2,109000.0,Master's,Mid-Level
+8.1,2,30,3,101800.0,Bachelor's,Senior
+19.3,2,37,3,137000.0,Bachelor's,Senior
+12.3,3,36,2,114100.0,Master's,Mid-Level
+0.8,3,24,2,86700.0,Master's,Mid-Level
+4.7,2,26,1,75700.0,Bachelor's,Junior
+21.5,2,47,5,167200.0,Bachelor's,Manager
+19.8,2,41,4,155700.0,Bachelor's,Lead
+0.8,2,25,1,67900.0,Bachelor's,Junior
+6.7,2,26,2,86400.0,Bachelor's,Mid-Level
+6.9,3,29,2,107100.0,Master's,Mid-Level
+20.2,3,42,4,165600.0,Master's,Lead
+0.6,3,23,2,100200.0,Master's,Mid-Level
+3.1,3,24,1,73200.0,Master's,Junior
+24.0,2,46,5,172200.0,Bachelor's,Manager
+5.4,2,30,2,78000.0,Bachelor's,Mid-Level
+19.6,1,40,5,154700.0,High School,Manager
+7.1,2,24,1,78100.0,Bachelor's,Junior
+3.0,3,30,1,88100.0,Master's,Junior
+7.3,4,33,2,105400.0,PhD,Mid-Level
+21.7,1,40,5,148700.0,High School,Manager
+25.7,2,50,5,172800.0,Bachelor's,Manager
+24.9,3,45,5,171400.0,Master's,Manager
+11.9,2,35,3,120500.0,Bachelor's,Senior
+20.0,2,43,4,138800.0,Bachelor's,Lead
+6.1,3,27,1,86500.0,Master's,Junior
+8.8,3,28,2,94600.0,Master's,Mid-Level
+26.9,2,47,5,176600.0,Bachelor's,Manager
+0.4,2,22,1,72200.0,Bachelor's,Junior
+2.6,3,22,2,91200.0,Master's,Mid-Level
+6.2,2,28,3,98300.0,Bachelor's,Senior
+0.8,1,22,2,68800.0,High School,Mid-Level
+5.4,3,29,3,108700.0,Master's,Senior
+17.5,1,44,5,149100.0,High School,Manager
+12.6,3,33,4,131800.0,Master's,Lead
+26.8,2,49,5,180900.0,Bachelor's,Manager
+24.5,4,48,5,174800.0,PhD,Manager
+10.3,2,34,2,97500.0,Bachelor's,Mid-Level
+7.8,2,30,3,104000.0,Bachelor's,Senior
+11.4,1,36,4,122600.0,High School,Lead
+17.7,2,41,5,155400.0,Bachelor's,Manager
+8.0,3,26,2,96100.0,Master's,Mid-Level
+18.7,4,43,3,144900.0,PhD,Senior
+12.3,2,37,2,106700.0,Bachelor's,Mid-Level
+16.6,2,36,3,128000.0,Bachelor's,Senior
+13.1,3,35,4,136800.0,Master's,Lead
+8.8,3,33,3,114700.0,Master's,Senior
+28.5,2,50,5,185600.0,Bachelor's,Manager
+22.9,2,48,4,153700.0,Bachelor's,Lead
+4.2,2,33,2,85100.0,Bachelor's,Mid-Level
+26.1,3,46,5,195000.0,Master's,Manager
+14.6,1,32,3,108400.0,High School,Senior
+26.8,3,50,5,176800.0,Master's,Manager
+24.0,2,48,5,174900.0,Bachelor's,Manager
+12.8,3,34,2,111500.0,Master's,Mid-Level
+0.7,1,27,2,67100.0,High School,Mid-Level
+8.1,2,26,3,103200.0,Bachelor's,Senior
+16.2,2,40,4,138300.0,Bachelor's,Lead
+19.0,3,39,5,174500.0,Master's,Manager
+7.7,1,35,2,90400.0,High School,Mid-Level
+4.2,2,32,1,77800.0,Bachelor's,Junior
+25.0,2,45,5,166500.0,Bachelor's,Manager
+29.5,2,50,5,179100.0,Bachelor's,Manager
+15.8,3,40,4,132200.0,Master's,Lead
+5.2,3,26,3,103800.0,Master's,Senior
+8.2,3,30,3,120200.0,Master's,Senior
+0.6,2,23,1,67000.0,Bachelor's,Junior
+27.4,3,44,5,186500.0,Master's,Manager
+3.5,2,25,2,83700.0,Bachelor's,Mid-Level
+17.3,1,37,5,142800.0,High School,Manager
+8.2,1,29,1,76600.0,High School,Junior
+16.6,2,43,5,156400.0,Bachelor's,Manager
+19.5,3,38,3,135800.0,Master's,Senior
+24.9,3,49,5,182700.0,Master's,Manager
+6.2,3,27,3,115100.0,Master's,Senior
+0.3,2,22,2,73700.0,Bachelor's,Mid-Level
+4.1,2,28,2,88800.0,Bachelor's,Mid-Level
+27.0,1,50,5,184600.0,High School,Manager
+26.2,2,50,5,176000.0,Bachelor's,Manager
+17.9,2,43,3,133800.0,Bachelor's,Senior
+18.0,1,39,5,144300.0,High School,Manager
+20.0,2,40,4,149800.0,Bachelor's,Lead
+5.3,2,24,2,90500.0,Bachelor's,Mid-Level
+27.4,3,47,5,188600.0,Master's,Manager
+12.6,4,43,3,129300.0,PhD,Senior
+11.5,4,37,3,132800.0,PhD,Senior
+15.6,3,34,3,141200.0,Master's,Senior
+1.4,2,22,1,68800.0,Bachelor's,Junior
+5.0,3,28,1,88300.0,Master's,Junior
+22.1,3,46,5,173200.0,Master's,Manager
+2.5,1,26,1,65000.0,High School,Junior
+18.1,2,39,5,157600.0,Bachelor's,Manager
+7.4,3,29,2,96600.0,Master's,Mid-Level
+11.7,2,35,2,105800.0,Bachelor's,Mid-Level
+8.7,2,31,3,103700.0,Bachelor's,Senior
+10.7,2,26,2,98500.0,Bachelor's,Mid-Level
+21.6,2,43,5,165900.0,Bachelor's,Manager
+8.9,2,28,2,98800.0,Bachelor's,Mid-Level
+17.0,2,40,4,135500.0,Bachelor's,Lead
+14.3,1,45,2,108000.0,High School,Mid-Level
+19.9,1,43,4,143600.0,High School,Lead
+28.1,3,49,5,185700.0,Master's,Manager
+22.0,2,47,5,158300.0,Bachelor's,Manager
+6.4,2,30,2,90400.0,Bachelor's,Mid-Level
+0.9,2,24,1,63100.0,Bachelor's,Junior
+7.9,4,32,2,111200.0,PhD,Mid-Level
+17.9,2,46,5,153800.0,Bachelor's,Manager
+1.5,2,22,1,56800.0,Bachelor's,Junior
+14.9,3,38,2,118300.0,Master's,Mid-Level
+17.9,3,37,3,138200.0,Master's,Senior
+10.0,2,34,3,115200.0,Bachelor's,Senior
+23.1,3,42,5,173300.0,Master's,Manager
+3.2,2,24,2,91400.0,Bachelor's,Mid-Level
+2.3,2,23,2,71100.0,Bachelor's,Mid-Level
+21.8,1,47,5,164200.0,High School,Manager
+14.9,1,40,3,115000.0,High School,Senior
+20.7,3,39,5,174900.0,Master's,Manager
+13.0,2,35,4,132000.0,Bachelor's,Lead
+7.4,2,27,1,87200.0,Bachelor's,Junior
+24.6,3,43,5,178500.0,Master's,Manager
+24.0,3,45,4,161500.0,Master's,Lead
+20.8,2,42,4,158200.0,Bachelor's,Lead
+8.2,3,37,3,114800.0,Master's,Senior
+17.7,1,41,3,124400.0,High School,Senior
+10.8,3,29,3,128200.0,Master's,Senior
+2.7,3,23,1,72700.0,Master's,Junior
+27.5,4,53,5,198800.0,PhD,Manager
+4.1,1,32,1,62300.0,High School,Junior
+28.5,1,46,5,173600.0,High School,Manager
+13.4,2,30,3,120800.0,Bachelor's,Senior
