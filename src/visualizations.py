@@ -137,7 +137,6 @@ def plot_residuals(y_actual: np.ndarray, y_predicted: np.ndarray, save_path: str
 
     fig, axes = plt.subplots(1, 2, figsize=(14, 5))
 
-    # Residuals vs Predicted
     axes[0].scatter(y_predicted, residuals, alpha=0.5, s=30)
     axes[0].axhline(y=0, color='r', linestyle='--', linewidth=2)
     axes[0].set_xlabel('Predicted Salary ($)', fontsize=12)
@@ -146,7 +145,6 @@ def plot_residuals(y_actual: np.ndarray, y_predicted: np.ndarray, save_path: str
     axes[0].xaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'${x:,.0f}'))
     axes[0].yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'${x:,.0f}'))
 
-    # Residuals distribution
     sns.histplot(residuals, bins=30, kde=True, ax=axes[1], color='steelblue')
     axes[1].set_xlabel('Residuals ($)', fontsize=12)
     axes[1].set_ylabel('Frequency', fontsize=12)

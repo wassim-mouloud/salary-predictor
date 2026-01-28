@@ -53,7 +53,6 @@ def load_model():
     if model_path.exists():
         predictor.load(model_path)
     else:
-        # Train model if not exists
         data_path = Path(__file__).parent / "data" / "salary_data.csv"
         if not data_path.exists():
             from generate_data import generate_salary_data

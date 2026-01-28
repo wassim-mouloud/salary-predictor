@@ -31,7 +31,6 @@ def generate_salary_data(n_samples: int = 1000, random_state: int = 42) -> pd.Da
         1, 5
     ).astype(int)
 
-    # Generate salary with realistic relationships
     base_salary = 35000
     salary = (
         base_salary
@@ -42,7 +41,6 @@ def generate_salary_data(n_samples: int = 1000, random_state: int = 42) -> pd.Da
     )
     salary = np.clip(salary, 30000, 250000)
 
-    # Create DataFrame
     df = pd.DataFrame({
         'years_experience': np.round(years_experience, 1),
         'education_level': education_level,
@@ -51,7 +49,6 @@ def generate_salary_data(n_samples: int = 1000, random_state: int = 42) -> pd.Da
         'salary': np.round(salary, -2)  # Round to nearest 100
     })
 
-    # Add readable labels for reference
     education_map = {1: 'High School', 2: "Bachelor's", 3: "Master's", 4: 'PhD'}
     role_map = {1: 'Junior', 2: 'Mid-Level', 3: 'Senior', 4: 'Lead', 5: 'Manager'}
 
@@ -62,7 +59,6 @@ def generate_salary_data(n_samples: int = 1000, random_state: int = 42) -> pd.Da
 
 
 if __name__ == "__main__":
-    # Generate and save the dataset
     data_dir = Path(__file__).parent.parent / "data"
     data_dir.mkdir(exist_ok=True)
 

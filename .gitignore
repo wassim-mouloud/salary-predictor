@@ -25,8 +25,7 @@ build/
 # Data (optional - uncomment if you don't want to track data)
 # data/
 
-# Models (optional - uncomment if you don't want to track models)
-# models/
+models/
 
 # OS
 .DS_Store

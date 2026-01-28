@@ -114,15 +114,12 @@ def train_and_save_model():
     data_path = project_root / "data" / "salary_data.csv"
     model_path = project_root / "models" / "salary_model.joblib"
 
-    # Load data
     df = pd.read_csv(data_path)
     print(f"Loaded {len(df)} samples from {data_path}")
 
-    # Train model
     predictor = SalaryPredictor()
     metrics = predictor.fit(df)
 
-    # Print results
     print("\n" + "=" * 50)
     print("MODEL TRAINING RESULTS")
     print("=" * 50)
@@ -144,7 +141,6 @@ def train_and_save_model():
         print(f"{feature}: {coef:,.2f}")
     print(f"Intercept: {metrics['intercept']:,.2f}")
 
-    # Save model
     model_path.parent.mkdir(exist_ok=True)
     predictor.save(model_path)
     print(f"\nModel saved to {model_path}")
