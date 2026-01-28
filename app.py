@@ -22,14 +22,12 @@ from visualizations import (
     set_style
 )
 
-# Page config
 st.set_page_config(
     page_title="Salary Predictor",
     page_icon="💰",
     layout="wide"
 )
 
-# Constants
 EDUCATION_OPTIONS = {
     'High School': 1,
     "Bachelor's Degree": 2,
@@ -85,16 +83,13 @@ def load_data():
 
 
 def main():
-    # Title
     st.title("💰 Salary Predictor")
     st.markdown("*A Machine Learning model to predict salaries based on experience, education, and job role.*")
     st.markdown("---")
 
-    # Load model and data
     predictor = load_model()
     df = load_data()
 
-    # Sidebar for navigation
     st.sidebar.title("Navigation")
     page = st.sidebar.radio(
         "Go to",
@@ -153,7 +148,6 @@ def predict_page(predictor):
 
     st.markdown("---")
 
-    # Make prediction
     if st.button("🔮 Predict Salary", type="primary", use_container_width=True):
         education_level = EDUCATION_OPTIONS[education]
         role_level = ROLE_OPTIONS[job_role]
@@ -165,7 +159,6 @@ def predict_page(predictor):
             job_role=role_level
         )
 
-        # Display result
         st.markdown("### Predicted Salary")
         st.markdown(
             f"""
@@ -187,7 +180,6 @@ def predict_page(predictor):
             unsafe_allow_html=True
         )
 
-        # Show input summary
         st.markdown("#### Input Summary")
         col1, col2, col3, col4 = st.columns(4)
         col1.metric("Experience", f"{years_experience} years")
@@ -202,7 +194,6 @@ def exploration_page(df):
 
     set_style()
 
-    # Dataset overview
     st.subheader("Dataset Overview")
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("Total Samples", f"{len(df):,}")
@@ -212,7 +203,6 @@ def exploration_page(df):
 
     st.markdown("---")
 
-    # Visualizations
     tab1, tab2, tab3, tab4, tab5 = st.tabs([
         "Salary Distribution",
         "Experience vs Salary",
@@ -241,7 +231,6 @@ def exploration_page(df):
         fig = plot_correlation_matrix(df)
         st.pyplot(fig)
 
-    # Raw data
     st.markdown("---")
     st.subheader("Raw Data")
     if st.checkbox("Show raw data"):
@@ -254,10 +243,8 @@ def performance_page(predictor, df):
 
     set_style()
 
-    # Retrain to get metrics
     metrics = predictor.fit(df)
 
-    # Metrics display
     st.subheader("Model Evaluation Metrics")
 
     col1, col2 = st.columns(2)
@@ -276,7 +263,6 @@ def performance_page(predictor, df):
 
     st.markdown("---")
 
-    # Feature importance
     st.subheader("Feature Coefficients")
     coef_df = pd.DataFrame({
         'Feature': list(metrics['coefficients'].keys()),
@@ -292,7 +278,6 @@ def performance_page(predictor, df):
     - These are scaled coefficients (features are standardized)
     """)
 
-    # Actual vs Predicted
     st.markdown("---")
     st.subheader("Actual vs Predicted")
 
