@@ -17,18 +17,21 @@ A machine learning project that predicts salaries using **Linear Regression** ba
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/salary-predictor.git
 cd salary-predictor
 ```
 
 2. Create a virtual environment (optional but recommended):
+
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -36,16 +39,19 @@ pip install -r requirements.txt
 ## Usage
 
 ### Generate Dataset
+
 ```bash
 python src/generate_data.py
 ```
 
 ### Train the Model
+
 ```bash
 python src/model.py
 ```
 
 ### Run the Web App
+
 ```bash
 streamlit run app.py
 ```
@@ -73,14 +79,16 @@ salary-predictor/
 ## Model Details
 
 ### Features
-| Feature | Description | Range |
-|---------|-------------|-------|
-| years_experience | Professional experience | 0-30 years |
-| education_level | 1=High School, 2=Bachelor's, 3=Master's, 4=PhD | 1-4 |
-| age | Employee age | 22-60 |
-| job_role | 1=Junior, 2=Mid, 3=Senior, 4=Lead, 5=Manager | 1-5 |
+
+| Feature          | Description                                    | Range      |
+| ---------------- | ---------------------------------------------- | ---------- |
+| years_experience | Professional experience                        | 0-30 years |
+| education_level  | 1=High School, 2=Bachelor's, 3=Master's, 4=PhD | 1-4        |
+| age              | Employee age                                   | 22-60      |
+| job_role         | 1=Junior, 2=Mid, 3=Senior, 4=Lead, 5=Manager   | 1-5        |
 
 ### Performance Metrics
+
 - **R² Score**: ~0.95 (explains 95% of salary variance)
 - **RMSE**: ~$6,500 (average prediction error)
 - **MAE**: ~$5,200 (mean absolute error)
@@ -107,13 +115,3 @@ salary-predictor/
 
 - [ ] Add more features (industry, location, skills)
 - [ ] Try other algorithms (Random Forest, XGBoost)
-- [ ] Deploy to Streamlit Cloud
-- [ ] Add API endpoint with FastAPI
-
-## License
-
-MIT License - feel free to use this project for learning purposes.
-
-## Author
-
-Your Name - [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
