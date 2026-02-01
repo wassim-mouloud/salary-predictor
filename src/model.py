@@ -142,7 +142,7 @@ def train_and_save_model():
     print(f"Intercept: {metrics['intercept']:,.2f}")
 
     model_path.parent.mkdir(exist_ok=True)
-    predictor.save(model_path)
+    predictor.save(str(model_path))
     print(f"\nModel saved to {model_path}")
 
     return predictor, metrics
